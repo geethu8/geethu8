@@ -1,3 +1,4 @@
+![data-science-lifecycle-1](https://user-images.githubusercontent.com/99241025/222418231-1ed0be2a-06bd-4d67-9485-ffe4433712ea.png)
 
 ## Hey 👋, I'm Geethu!  
 
@@ -6,10 +7,9 @@
 ### Click on the projects below 
 <p><a href="https://github.com/geethu8/-Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
 <br/>
-<p><a href=</a></p>
-<br/>
 • I'm a Data science student who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects
 
+<br/>
 
 <a href="https://github.com/geethu8" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on Machine Learning  
   
 
-- 🌱 I’m currently learning Natural Language Processing  
+- 🌱 I’m currently learning Natural Language Processing     
   
 
 - ❓ Ask me about anything related to DataScience.  
