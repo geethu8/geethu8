@@ -1,7 +1,8 @@
-### Hey I am Geethu 
-#####  Happy to see you here! 
+## Hey 👋, I'm Geethu!  
 
-#### Click on the projects below  
+###  Happy to see you here! 
+
+### Click on the projects below  
 <p><a href=</a></p>
 
 <br/>
@@ -18,9 +19,25 @@
 ## Languages and Tools  
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>  
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on Machine Learning  
+  
+
+- 🌱 I’m currently learning Natural Language Processing  
+  
+
+- ❓ Ask me about anything related to DataScience.  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
 
 <br/>  
 <br/>  
