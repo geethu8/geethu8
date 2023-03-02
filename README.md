@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey I am Geethu 
+#####  Happy to see you here! 
 
-<!--
-**geethu8/geethu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Click on the projects below  
+<p><a href=</a></p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• I'm a Data science student who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects.
+
+
+##### Languages and Tools
+
+
+
+
+<br/>  
+
