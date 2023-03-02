@@ -3,12 +3,13 @@
 
 ###  Happy to see you here! 
 
-### Click on the projects below  
-<p><a href=</a></p>
-
+### Click on the projects below 
+<p><a href="https://github.com/geethu8/-Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
 <br/>
-
+<p><a href=</a></p>
+<br/>
 • I'm a Data science student who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects
+
 
 <a href="https://github.com/geethu8" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,8 +39,6 @@
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
 <br/>  
 <br/>  
 <br/>  
