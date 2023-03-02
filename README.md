@@ -1,4 +1,4 @@
-![data-science-lifecycle-1](https://user-images.githubusercontent.com/99241025/222418231-1ed0be2a-06bd-4d67-9485-ffe4433712ea.png)
+![data-science-lifecycle-1](https://user-images.githubusercontent.com/99241025/222424305-3a3d8ada-9d01-4a41-ae56-9ca466f892b8.png)
 
 ## Hey 👋, I'm Geethu!  
 
