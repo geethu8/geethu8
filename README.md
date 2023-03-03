@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on Machine Learning  
   
 
-- 🌱 I’m currently learning Natural Language Processing     
+- 🌱 I’m currently learning Natural Language Processing and AWS
   
 
 - ❓ Ask me about anything related to DataScience.  
