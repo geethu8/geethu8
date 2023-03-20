@@ -6,7 +6,7 @@
 
 ### Click on the projects below 
 <p><a href="https://github.com/geethu8/-Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
-<p><a href="https://github.com/geethu8/Zomato-Cost-Prediction" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
+<p><a href="https://github.com/geethu8/Zomato-Cost-Prediction" target="_blank">Zomato-Cost-Prediction</a></p>
 <br/>
 • I'm a Data science student who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects
 
