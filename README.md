@@ -37,9 +37,7 @@
   
 
 - ❓ Ask me about anything related to DataScience.  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+   
 <br/>  
 <br/>  
 <br/>  
