@@ -5,6 +5,7 @@
 ###  Happy to see you here! 
 
 ### Click on the projects below 
+<p><a href="https://github.com/geethu8/Wine-Quality-Prediction" target="_blank">Wine Quality Prediction</a></p>
 <p><a href="https://github.com/geethu8/-Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
 <p><a href="https://github.com/geethu8/Zomato-Cost-Prediction" target="_blank">Zomato-Cost-Prediction</a></p>
 <br/>
